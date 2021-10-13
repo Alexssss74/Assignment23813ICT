@@ -1,4 +1,4 @@
-#Instructions for use
+#Instructions for use#
 1. Go to directory mongodb\bin and type ./mongod -f mongodb.conf in the terminal.
 2. Type /mongo under mongodb\bin directory.
 3. Go back to angular project directory(chatroom)
